@@ -1,0 +1,7 @@
+mp:
+  messaging:
+    incoming:
+      sensor:
+        connector: smallrye-mqtt
+        host: mqtt
+        port: 1883
